@@ -1,4 +1,4 @@
-📊 ##Exploratory Data Analysis (EDA) on Banking Dataset using Python
+📊 #Exploratory Data Analysis (EDA) on Banking Dataset using Python
 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a banking customer dataset using Python in a Jupyter Notebook. The goal is to understand customer financial behavior, identify patterns, and extract meaningful insights through data cleaning, visualization, and statistical analysis.
