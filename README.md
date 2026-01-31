@@ -89,7 +89,8 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Correlation Heatmap
 
-<img src="eda_images/Correlation_Heatmap.png" alt="Correlation Heatmap" width="1000" height="700"/>
+<img src="<img width="845" height="761" alt="Heatmap" src="https://github.com/user-attachments/assets/c46b5caf-a084-40b1-a169-65f4ce42cef7" />
+" alt="Correlation Heatmap" width="1000" height="700"/>
 
 ## 📈 Key Insights
 
