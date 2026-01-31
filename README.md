@@ -7,7 +7,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a banking 
 The project demonstrates an end-to-end data analysis workflow, starting from data loading and preprocessing to visualization and correlation analysis.
 
 ## 🎯 Objective
-
+ 
 - Understand the structure and quality of the dataset
 - Perform data cleaning and preprocessing
 - Analyze categorical and numerical features
