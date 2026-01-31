@@ -89,7 +89,7 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Correlation Heatmap
 
-"<img width="845" height="761" alt="Heatmap" src="https://github.com/user-attachments/assets/c46b5caf-a084-40b1-a169-65f4ce42cef7" />
+<img width="845" height="761" alt="Heatmap" src="https://github.com/user-attachments/assets/c46b5caf-a084-40b1-a169-65f4ce42cef7" />
 
 
 ## 📈 Key Insights
@@ -112,7 +112,43 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 - Feature engineering for predictive modeling  
 - Handling outliers and skewness more rigorously  
 - Applying machine learning models for customer segmentation  
-- Deeper business-driven insights and recommendations  
+- Deeper business-driven insights and recommendations
+
+==================================================================================================================================================================================
+
+
+# 📊 Banking Data Power BI Dashboard
+
+This Power BI dashboard provides an **interactive visualization** of banking data, enabling users to analyze **deposits and loans** effectively. It presents key financial metrics and actionable insights that facilitate informed decision-making within the banking sector.
+
+---
+
+## ✨ Features
+
+### 1️⃣ Interactive Navigation
+- Buttons for easy navigation between various sections.  
+- Quick return to a central homepage for seamless exploration.
+
+### 2️⃣ Key Metrics
+- **Total Clients:** 3,000  
+- **Total Loans:** $4.38 billion  
+- **Total Deposits:** $3.77 billion  
+
+### 3️⃣ Visual Insights
+- **Deposits by Occupation:** Detailed breakdown of bank deposits across different occupational groups.  
+- **Gender Analysis:** Insights on banking relationships by gender.  
+- **Income Band Comparison:** Comparative analysis of deposits and loans across various income bands.
+<img width="1170" height="658" alt="Homepage" src="https://github.com/user-attachments/assets/6f4c3943-c841-4caa-aa9d-8f5e9b7372d1" />
+<img width="1168" height="656" alt="Loan Analysis" src="https://github.com/user-attachments/assets/d2e90f46-65f8-40c6-aa95-6e1999f4c81c" />
+<img width="1170" height="660" alt="Deposit Analysis" src="https://github.com/user-attachments/assets/95387802-c64b-48e2-8614-1c306bcde4a4" />
+<img width="1166" height="658" alt="Summary" src="https://github.com/user-attachments/assets/44d28709-4635-479d-9ce1-ff9cb1ffc10d" />
+
+
+---
+
+
+This dashboard helps banking analysts and decision-makers **identify trends, monitor key financial metrics, and derive actionable insights** to optimize banking operations.
+
 
 ## 📬 Contact
 
