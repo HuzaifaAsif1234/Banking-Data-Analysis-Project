@@ -152,4 +152,4 @@ This dashboard helps banking analysts and decision-makers **identify trends, mon
 
 ## 📬 Contact
 
-If you find this project interesting or have suggestions, feel free to connect with me on LinkedIn.
+If you find this project interesting or have suggestions, feel free to connect with me on LinkedIn : https://www.linkedin.com/in/huzaifa-asif17/ 
