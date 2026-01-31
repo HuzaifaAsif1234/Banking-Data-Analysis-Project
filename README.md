@@ -64,12 +64,12 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Sample Visualizations
 
-<img src="eda_images/Brid_univariate_categorical_data.png" alt="Brid univariate categorical data" width="900" height="600"/>
-<img src="eda_images/GenderID_univariate_categorical_data.png" alt="Gender ID univariate categorical data" width="900" height="600"/>
-<img src="eda_images/AmtOfCC_bivariate_categorical_data.png" alt="AmtOfCC bivariate categorical data" width="900" height="600"/>
-<img src="eda_images/Nationality_bivariate_categorical_data.png" alt="Nationality bivariate categorical data" width="900" height="600"/>
-<img src="eda_images/Loyalty_Classification.png" alt="Loyalty Classification" width="900" height="600"/>
-<img src="eda_images/Income_Band.png" alt="Income Band" width="900" height="600"/>
+<img src=<img width="508" height="323" alt="Brid univ cat" src="https://github.com/user-attachments/assets/654f6d1a-bd67-4e2f-acd2-2ed508a58869" />
+<img src=<img width="576" height="337" alt="genId univ cat" src="https://github.com/user-attachments/assets/e6adb1b6-aa1d-4946-9fc3-4bd079028750" />
+<img src=<img width="606" height="355" alt="amtOf cc bivar" src="https://github.com/user-attachments/assets/8ea4b525-f299-4ae0-b8e2-82e26241ee91" />
+<img src=<img width="559" height="335" alt="Nationality bivar" src="https://github.com/user-attachments/assets/65f62d92-ad5a-4160-84fa-7ca4a473aece" />
+<img src=<img width="702" height="326" alt="Loyalty" src="https://github.com/user-attachments/assets/69ea7906-7f7a-4133-8b6c-cfecdffef490" />
+<img src=<img width="660" height="327" alt="Income Band" src="https://github.com/user-attachments/assets/630d1dcd-e091-402e-80d9-85ca4663378d" />
 
 ### 5️⃣ Numerical Feature Analysis
 
@@ -78,8 +78,8 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Sample Visualizations
 
-<img src="eda_images/Estimated_Income.png" alt="Estimated Income" width="1000" height="700"/>
-<img src="eda_images/Superannuation_Savings.png" alt="Superannuation Savings" width="1000" height="700"/>
+<img src=<<img width="447" height="253" alt="Estim inc" src="https://github.com/user-attachments/assets/1dd0e836-4dd7-403d-b968-f75c94f34922" />
+<img src=<img width="397" height="262" alt="super annu" src="https://github.com/user-attachments/assets/a041dfc1-a281-40aa-b771-3804bc87b918" />
 
 ### 6️⃣ Correlation Analysis
 
@@ -90,7 +90,7 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 #### Correlation Heatmap
 
 <img src="<img width="845" height="761" alt="Heatmap" src="https://github.com/user-attachments/assets/c46b5caf-a084-40b1-a169-65f4ce42cef7" />
-" alt="Correlation Heatmap" width="1000" height="700"/>
+
 
 ## 📈 Key Insights
 
