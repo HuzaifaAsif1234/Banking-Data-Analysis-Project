@@ -64,12 +64,12 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Sample Visualizations
 
-<img src="https://github.com/user-attachments/assets/c07d09c9-5690-4a58-b443-62419487d8a2" alt="Brid univariate categorical data" width="500" height="350"/>
-<img src="https://github.com/user-attachments/assets/addb8759-0a5c-461c-ac5f-f748d5097a0f" alt="Gender ID univariate categorical data" width="500" height="350"/>
-<img src="https://github.com/user-attachments/assets/a8fa7d0c-dd50-4fb7-ac69-ffd4966a9de1" alt="AmtOfCC bivariate categorical data" width="500" height="350"/>
-<img src="https://github.com/user-attachments/assets/ba539d85-fad1-4b57-9942-03e7229a1a66" alt="Nationality bivariate categorical data" width="500" height="350"/>
-<img src="https://github.com/user-attachments/assets/decbbc7a-0181-4288-8ce0-7da9a4bffa8f" alt="Loyalty Classification" width="500" height="350"/>
-<img src="https://github.com/user-attachments/assets/4b9cf595-eeee-4f45-97a0-86deb8ba8c6d" alt="Income Band" width="500" height="350"/>
+<img src="https://github.com/user-attachments/assets/c07d09c9-5690-4a58-b443-62419487d8a2" alt="Brid univariate categorical data" width="800" height="550"/>
+<img src="https://github.com/user-attachments/assets/addb8759-0a5c-461c-ac5f-f748d5097a0f" alt="Gender ID univariate categorical data" width="800" height="550"/>
+<img src="https://github.com/user-attachments/assets/a8fa7d0c-dd50-4fb7-ac69-ffd4966a9de1" alt="AmtOfCC bivariate categorical data" width="800" height="550"/>
+<img src="https://github.com/user-attachments/assets/ba539d85-fad1-4b57-9942-03e7229a1a66" alt="Nationality bivariate categorical data" width="800" height="550"/>
+<img src="https://github.com/user-attachments/assets/decbbc7a-0181-4288-8ce0-7da9a4bffa8f" alt="Loyalty Classification" width="800" height="550"/>
+<img src="https://github.com/user-attachments/assets/4b9cf595-eeee-4f45-97a0-86deb8ba8c6d" alt="Income Band" width="800" height="550"/>
 
 ### 5️⃣ Numerical Feature Analysis
 
@@ -78,8 +78,8 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Sample Visualizations
 
-<img src="https://github.com/user-attachments/assets/809ec68b-c097-41e8-942b-dbff4c136cfa" alt="Estimated Income" width="600" height="400"/>
-<img src="https://github.com/user-attachments/assets/39ff25b2-f20f-49e0-bebd-5bf0f4f8d3b5" alt="Superannuation Savings" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/809ec68b-c097-41e8-942b-dbff4c136cfa" alt="Estimated Income" width="900" height="600"/>
+<img src="https://github.com/user-attachments/assets/39ff25b2-f20f-49e0-bebd-5bf0f4f8d3b5" alt="Superannuation Savings" width="900" height="600"/>
 
 ### 6️⃣ Correlation Analysis
 
@@ -89,7 +89,7 @@ The project demonstrates an end-to-end data analysis workflow, starting from dat
 
 #### Correlation Heatmap
 
-<img src="https://github.com/user-attachments/assets/75b73dcb-dad1-42af-b7dd-93991319a066" alt="Correlation Heatmap" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/75b73dcb-dad1-42af-b7dd-93991319a066" alt="Correlation Heatmap" width="900" height="600"/>
 
 ## 📈 Key Insights
 
